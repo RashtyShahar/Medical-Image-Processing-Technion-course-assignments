@@ -1,1 +1,0 @@
-here i wrote the func that transform correlation kernek to convulotional kernel!
